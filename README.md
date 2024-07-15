@@ -15,7 +15,8 @@ Android forensic artifacts cheat sheet :
 
 ..\data\misc\adb\adb_keys.	-	host connects to the device through adb.
 
-..\data\system_ce\%USERNUMBER%\accounts_ce.db
+..\data\system_ce\%USERNUMBER%\accounts_ce.db   -       users’ application account details, including login credentials, account IDs, authentication tokens, and more
+
 ..\data\system_de\%USERNUMBER%\accounts_de.db	-	users’ application account details, including login credentials, account IDs, authentication tokens, and more
 
 ..\data\user\%USERNUMBER%\com.google.android.apps.turbo\shared_prefs\app_usage_stats.xml	-	hardware and software usage statistics.
