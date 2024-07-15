@@ -1,5 +1,5 @@
 # Android-Forensics-Cheatsheet
-Android forensic artifcacts cheat sheet :
+Android forensic artifacts cheat sheet :
 
 .\data\system\users\%USERNUMBER%\settings_secure.xml	-	Android ID, Bluetooth name, Bluetooth address
 ..\data\system\usagestats\%USERNUMBER%\version	-	OS version, Build codename, Build version
