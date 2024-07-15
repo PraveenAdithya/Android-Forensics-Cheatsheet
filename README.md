@@ -21,7 +21,8 @@ Android forensic artifacts cheat sheet :
 ..\data\user\%USERNUMBER%\com.google.android.apps.turbo\shared_prefs\app_usage_stats.xml	-	hardware and software usage statistics.
 
 .\data\data\com.google.android.apps.wellbeing\databases\app_usage  -	Digital Wellbeing service that collects usage statistic
-Samsung : ..\data\data\com.samsung.android.forest\databases\dwbCommon.db	
+
+ ..\data\data\com.samsung.android.forest\databases\dwbCommon.db	 - Digital Wellbeing service Samsung 
 
 .\data\data\com.android.vending\databases\frosting.db	-	application is installed or updated
 
