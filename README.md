@@ -1,7 +1,6 @@
 # Android-Forensics-Cheatsheet
 Android forensic artifcacts cheat sheet :
 
-Artifact	Description
 .\data\system\users\%USERNUMBER%\settings_secure.xml	-	Android ID, Bluetooth name, Bluetooth address
 ..\data\system\usagestats\%USERNUMBER%\version	-	OS version, Build codename, Build version
 ..\data\drm\pvt\ahrh	-	IMEI
